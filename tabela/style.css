@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(143, 193, 217);
+}
+table{
+    width: 100%;
+    height: 100%;
+}
+tr, h1{
+    text-align: center;
+}
+
